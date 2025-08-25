@@ -4,6 +4,8 @@ package com.journaldev.jaxrs.service;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
+//Added by kumar
+import java.util.ArrayList;
 
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
