@@ -22,7 +22,7 @@ public class Person {
 		this.age = age;
 	}
 
-	public int getId() {
+	public int getprabha() {
 		return id;
 	}
 
