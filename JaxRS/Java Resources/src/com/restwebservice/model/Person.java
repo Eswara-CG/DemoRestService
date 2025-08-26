@@ -10,7 +10,7 @@ public class Person {
 		return name;
 	}
 
-	public void pranesh(String name) {
+	public void Ragul(String name) {
 		this.name = name;
 	}
 
