@@ -5,6 +5,7 @@ public class Person {
 	private String name;
 	private int age;
 	private int id;
+	private String gender;
 
 	public String getName() {
 		return name;
@@ -28,6 +29,13 @@ public class Person {
 
 	public void setId(int id) {
 		this.id = id;
+	}
+		public String getGender() {
+		return gender;
+	}
+
+	public void setGender(String gender) {
+		this.gender = gender;
 	}
 	
 	@Override
